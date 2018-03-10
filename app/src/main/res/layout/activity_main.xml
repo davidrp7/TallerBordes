@@ -180,6 +180,7 @@
                         android:src="@drawable/postre2"
                         android:background="@drawable/border_circle"
                         android:padding="5dp"
+
                         />
 
                     <RelativeLayout
@@ -191,7 +192,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginTop="5dp"
-                            android:text="MADARAS CAFE"
+                            android:text="MADRAS CAFE"
                             android:textSize="20sp"
                             android:layout_marginLeft="15dp"
                             android:textStyle="bold" />
@@ -232,14 +233,13 @@
                             android:layout_height="wrap_content">
 
                             <View
-                                android:layout_width="match_parent"
-                                android:layout_height="10dp"
-                                android:layout_marginRight="120dp"
-                                android:background="@drawable/border_green"/>
-                            <View
                                 android:layout_width="250dp"
                                 android:layout_height="10dp"
                                 android:background="@drawable/border_one"/>
+                            <View
+                                android:layout_width="110dp"
+                                android:layout_height="10dp"
+                                android:background="@drawable/border_green"/>
 
                         </FrameLayout>
 
@@ -396,14 +396,13 @@
                             android:layout_height="wrap_content">
 
                             <View
-                                android:layout_width="match_parent"
-                                android:layout_height="10dp"
-                                android:layout_marginRight="80dp"
-                                android:background="@drawable/border_yellow"/>
-                            <View
                                 android:layout_width="250dp"
                                 android:layout_height="10dp"
                                 android:background="@drawable/border_one"/>
+                            <View
+                                android:layout_width="150dp"
+                                android:layout_height="10dp"
+                                android:background="@drawable/border_yellow"/>
 
                         </FrameLayout>
 
@@ -558,16 +557,14 @@
                             android:layout_below="@id/tv_text4"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content">
-
-                            <View
-                                android:layout_width="match_parent"
-                                android:layout_height="10dp"
-                                android:layout_marginRight="50dp"
-                                android:background="@drawable/border_orange"/>
                             <View
                                 android:layout_width="250dp"
                                 android:layout_height="10dp"
                                 android:background="@drawable/border_one"/>
+                            <View
+                                android:layout_width="180dp"
+                                android:layout_height="10dp"
+                                android:background="@drawable/border_orange"/>
 
                         </FrameLayout>
 
@@ -724,16 +721,15 @@
                             android:layout_below="@id/tv_text5"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content">
-
-                            <View
-                                android:layout_width="match_parent"
-                                android:layout_height="10dp"
-                                android:layout_marginRight="20dp"
-                                android:background="@drawable/border_red"/>
                             <View
                                 android:layout_width="250dp"
                                 android:layout_height="10dp"
                                 android:background="@drawable/border_one"/>
+                            <View
+                                android:layout_width="200dp"
+                                android:layout_height="10dp"
+                                android:background="@drawable/border_red"/>
+
 
                         </FrameLayout>
 
